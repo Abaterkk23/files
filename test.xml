@@ -1,7 +1,7 @@
 <root>
     <product>
     <isActive>true</isActive>
-    <name>XMLTest-1</name>
+    <name>XMLTest-1-Update</name>
     <tags>abc</tags>
     <tags>123</tags>
     <vatRate>1</vatRate>
@@ -23,7 +23,7 @@
     </product>
     <product>
     <isActive>true</isActive>
-    <name>XMLTest-2</name>
+    <name>XMLTest-2-Update</name>
     <tags>abc</tags>
     <tags>123</tags>
     <vatRate>1</vatRate>
