@@ -1,19 +1,19 @@
 <root>
     <product>
     <isActive>true</isActive>
-    <name>XMLTest-12</name>
+    <name>XMLTest- 1312 - 1 - 1</name>
     <tags>abc</tags>
     <tags>123</tags>
     <vatRate>1</vatRate>
     <image>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</image>
     <images>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</images>
     <images>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</images>
-    <stockCode>XML33333333333</stockCode>
+    <stockCode>XML33333331685</stockCode>
     <stockQuantity>100000</stockQuantity>
     <code>K426611</code>
     <purchaseLimit>2</purchaseLimit>
     <brandId>12345678</brandId>
-    <barcode>K426611</barcode>
+    <barcode>K4266305</barcode>
     <discountedPrice>50</discountedPrice>
     <price>100</price>
     <categoryId>3816</categoryId>
@@ -23,21 +23,21 @@
     </product>
     <product>
     <isActive>true</isActive>
-    <name>XMLTest-yanlış</name>
+    <name>XMLTest - 1312 - 2 - 1</name>
     <tags>abc</tags>
     <tags>123</tags>
     <vatRate>1</vatRate>
     <image>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</image>
     <images>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</images>
     <images>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</images>
-    <stockCode>XML222222222</stockCode>
+    <stockCode>XML1312222</stockCode>
     <stockQuantity>100000</stockQuantity>
     <code>K426622</code>
     <purchaseLimit>2</purchaseLimit>
     <brandId>12345678</brandId>
-    <barcode>K426622</barcode>
+    <barcode>K4266854</barcode>
     <discountedPrice>50</discountedPrice>
-    <price>yoodegil</price>
+    <price>150</price>
     <categoryId>3816</categoryId>
     <description>Açıklama Açıklama</description>
     <productType>0</productType>
